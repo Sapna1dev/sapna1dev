@@ -15,11 +15,6 @@ Currently pursuing my M.S. in Data Science at Boston University while working on
 
 ---
 
-<!-- ## 🌐 Portfolio
-(Add your portfolio link here)
-
----
---!>
 ## 🚀 Featured Projects
 
 ### 🔁 Customer Purchase Prediction

@@ -63,7 +63,7 @@ Azure (ADF, SQL, Synapse) · GitHub · Jupyter Notebook
 
 ## 📜 Certifications
 Google Data Analytics Certificate  
-Microsoft Azure Fundamentals (AZ-900)  
+Excel and SQL Certification
 
 ---
 

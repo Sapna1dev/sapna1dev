@@ -7,9 +7,9 @@ Portfolio · LinkedIn · Email · GitHub
 
 ---
 
-I'm not just a Data Analyst — I focus on turning data into clear, actionable decisions.
+I'm not just a Data Analyst - I focus on turning data into clear, actionable decisions.
 
-My journey started in UI/UX and web development, where I worked on building user-focused digital experiences. Today, I apply that same thinking to data — analyzing patterns, understanding behavior, and building solutions that support real business decisions.
+My journey started in UI/UX and web development, where I worked on building user-focused digital experiences. Today, I apply that same thinking to data - analyzing patterns, understanding behavior, and building solutions that support real business decisions.
 
 Currently pursuing my M.S. in Data Science at Boston University while working on hands-on projects in machine learning, data pipelines, and business intelligence.
 

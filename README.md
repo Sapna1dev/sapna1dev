@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Data Science professional who enjoys finding the story behind the numbers — and figuring out what to do with it.
+I'm a Data Science professional who enjoys finding the story behind the numbers - and figuring out what to do with it.
 
 My work sits at the intersection of **data, AI, and digital growth**. I use Python, SQL, machine learning, dashboards, experimentation, and AI-powered workflows to understand behavior, uncover opportunities, and turn insights into practical business decisions.
 
@@ -21,7 +21,7 @@ Currently, I'm pursuing my **M.S. in Data Science at Boston University** while w
 
 At DesTan, I work with large datasets, ETL pipelines, Power BI dashboards, CRM data, automation, and statistical analysis. At FlyRank, I'm exploring how data and AI influence modern marketing through **SEO, AEO/GEO, audience research, content optimization, customer journeys, and conversion strategy**.
 
-What interests me most is not simply building a model or dashboard — it's understanding:
+What interests me most is not simply building a model or dashboard - it's understanding:
 
 > **What is the data telling us, why does it matter, and what should we do next?**
 

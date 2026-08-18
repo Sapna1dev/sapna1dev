@@ -1,4 +1,4 @@
-```markdown
+
 # Hi, I'm Sapna Gondaliya 👋
 
 ### Data Science · Analytics · AI Marketing
@@ -202,4 +202,3 @@ I'm interested in opportunities where **Data Science, Analytics, AI, and busines
 ### Thanks for visiting my profile! 👋
 
 *Always learning. Always building. Always looking for the story behind the data.*
-```
